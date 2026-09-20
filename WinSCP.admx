@@ -94,9 +94,6 @@
             key="SOFTWARE\Wow6432Node\Martin Prikryl\WinSCP 2">
       <parentCategory ref="WinSCP_Defaults" />
       <supportedOn ref="WinSCP_Supported_Windows10Plus" />
-      <disabledValue>
-        <decimal value="0" />
-      </disabledValue>
       <elements>
         <decimal id="UpdatePeriodDays"
                  valueName="DefaultUpdatesPeriod"
